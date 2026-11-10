@@ -92,19 +92,19 @@ Developed a three-page Databricks AI/BI Dashboard.
 
 Displays booking KPIs, revenue, ADR, cancellation rates and monthly trends.
 
-![Booking Overview Dashboard](screenshots/dashboard_overview.png)
+![Booking Overview Dashboard](Screenshots/dashboard_overview.png)
 
 ### Page 2 — Hotels, Rooms & Channels
 
 Analyzes hotel performance, region and city comparisons, room types, booking channels and guest ratings.
 
-![Hotel Performance Dashboard](screenshots/dashboard_performance.png)
+![Hotel Performance Dashboard](Screenshots/dashboard_performance.png)
 
 ### Page 3 — Data Quality & Reconciliation
 
 Monitors data-quality issues, rejected records, duplicate records and reconciliation results.
 
-![Data Quality Dashboard](screenshots/dashboard_data_quality.png)
+![Data Quality Dashboard](Screenshots/dashboard_data_quality.png)
 
 ## SQL Implementation
 
@@ -130,7 +130,7 @@ The pipeline was developed using Databricks Lakeflow Spark Declarative Pipelines
 
 All nine pipeline datasets were successfully executed and validated.
 
-![Databricks SQL Project Structure](screenshots/databricks_sql_structure.png)
+![Databricks SQL Project Structure](Screenshots/databricks_sql_structure.png)
 
 ## Key Learnings
 
