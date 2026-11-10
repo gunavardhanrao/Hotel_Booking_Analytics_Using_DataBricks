@@ -24,7 +24,7 @@ The solution ingests raw CSV data, performs deduplication and data-quality valid
 
 ## Data Architecture
 
-![Databricks Medallion Pipeline](screenshots/pipeline_graph.png)
+![Databricks Medallion Pipeline](Screenshots/pipeline_graph.png)
 
 ### Bronze — Raw Ingestion
 
